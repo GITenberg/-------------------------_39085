@@ -1,0 +1,28 @@
+_repo: '-------------------------_39085'
+_version: 0.1.0
+alternative_title: Psycharis and His Work
+covers:
+- cover_type: archival
+  image_path: 39085-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phlores, Kostas
+    aliases:
+    - Φλώρης, Κώστας
+    - Floris, Kostas
+    gutenberg_agent_id: '39835'
+    url: http://www.gutenberg.org/2009/agents/39835
+description: ''
+gutenberg_issued: '2012-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39085'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Psicharis, Ioannis, 1854-1929'
+title: Ο Ψυχάρης και το έργο του
+url: http://www.gutenberg.org/ebooks/39085
